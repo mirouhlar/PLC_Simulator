@@ -1,0 +1,35 @@
+[VERSION]
+APIVERSION=(100)
+VERSION=(2,8,3,19)
+[FRAME]
+PLACEMENT=(44,2,3,-32000,-32000,-1,-1,-30,0,1410,937)
+FRAME DATA=(1,1,0,0)
+[FRAME DATA]
+1=(44,0,1,-1,-1,-8,-31,208,208,1361,780)
+2=(44,2,3,-1,-1,-8,-31,182,182,1557,754)
+3=(44,0,1,-1,-1,-1,-1,0,23,343,858)
+4=(44,0,1,-1,-1,-1,-1,0,23,240,858)
+[Ladder Views]
+F1V1=(95,1,0,7,16,5,1,2,4,0,0)
+F2V1=(95,2,0,7,16,5,7,3,30000,0,1)
+[Ladder Frame 1]
+Ladder View 1z=(0,0,1116,529)
+ModuleSegment=7
+[FRAME TYPES]
+1=3
+2=3
+3=14
+4=25
+[Ladder Frame 2]
+Ladder View 1z=(0,0,1304,828)
+ModuleSegment=6
+[TAB INFO]
+Tab0=3,$Main
+Tab1=3,PDScontrol
+[DOCKPANE TO FRAME XREF]
+Project Browser`6852=3
+Instruction Toolbox`4381=4
+[DISPLAY MODE]
+DoMDIRestore=0
+[SYSTEM NAME]
+System Name=DESKTOP-PDB8S7V
